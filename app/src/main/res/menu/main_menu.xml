@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuDespAnadirNota"
+        android:title="@string/anadir_nota" />
+    <item
+        android:id="@+id/menuDespMandarCorreo"
+        android:title="@string/mandar_correo" />
+    <item
+        android:id="@+id/menuDespAnadirAmigo"
+        android:title="@string/anadir_amigo" />
+    <item
+        android:id="@+id/menuDespAnadirCita"
+        android:title="@string/anadir_cita" />
+    <item
+        android:id="@+id/menuDespAcercaDe"
+        android:title="@string/acerca_de" />
+</menu>
