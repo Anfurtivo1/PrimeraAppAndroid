@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstAppAndroid</string>
+    <string name="anadir_nota" translatable="false">Add note</string>
+    <string name="mandar_correo">Send mail</string>
+    <string name="anadir_amigo">Add friend</string>
+    <string name="anadir_cita">Add date</string>
+    <string name="acerca_de">About</string>
+    <string name="modulo">This is the Programación Multimedia y Dispositivos Móviles.</string>
+    <string name="logo_info">Logo del IFP Virgen de Gracia</string>
+    <string name="txtanadirnota">Enter the note</string>
+    <string name="btnanadirnota">Add</string>
+    <string name="apellidoAcercaDe">Sanchez juarez</string>
+    <string name="fotoAcercaDe">Foto de Andres Sanchez Juarez</string>
+    <string name="github">GitHub</string>
+    <string name="twitter">Twitter</string>
+    <string name="mensaje">Message</string>
+    <string name="nombreAmigo">Name</string>
+    <string name="emailAmigo">Email</string>
+    <string name="btnEnviar">Send</string>
+    <string name="TituloCita">Date title</string>
+    <string name="LugarCita">Date place</string>
+    <string name="asunto">Subject</string>
+    <string name="receptor">Receiver</string>
+    <string name="nombreAcercaDe">Andres</string>
+    <string name="PrincipioCita">Beggining of the date</string>
+    <string name="FinalCita">End of the date</string>
+</resources>
